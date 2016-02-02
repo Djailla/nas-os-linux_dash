@@ -1,0 +1,19 @@
+{
+    "name": {
+        "en": "Linux Dash"
+    },
+    "description_short": {
+        "en": "Linux Dash is a beautiful web dashboard for Linux"
+    },
+    "visibility": "always",
+    "publisher_contact": "bastien.vallet@gmail.com",
+    "categories": [
+        "productivity"
+    ],
+    "publication_date": "2016-02-02",
+    "publisher_name": "Djailla",
+    "supported_languages": [
+        "en"
+    ],
+    "website_url": "https://github.com/Djailla/nas-os-linux_dash/"
+}
