@@ -5,6 +5,7 @@ mkdir -m 755 -p /opt/linux_dash/
 install -m 755 /home/source/rc.local /etc
 
 # Add nodejs repo
+apt-get update
 apt-get install -y -q curl git
 curl -sL https://deb.nodesource.com/setup_5.x | bash -
 
