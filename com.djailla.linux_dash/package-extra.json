@@ -3,15 +3,15 @@
         "en": "Linux Dash"
     },
     "description_short": {
-        "en": "Linux Dash is a beautiful web dashboard for Linux"
+        "en": "Linux Dash is a beautiful web dashboard for NAS monitoring"
     },
     "visibility": "always",
-    "publisher_contact": "bastien.vallet@gmail.com",
     "categories": [
         "productivity"
     ],
-    "publication_date": "2016-02-02",
+    "publication_date": "2016-02-08",
     "publisher_name": "Djailla",
+    "publisher_contact": "bastien.vallet@gmail.com",
     "supported_languages": [
         "en"
     ],
