@@ -1,4 +1,5 @@
 {
+    "type": "application",
     "id": "com.djailla.linux_dash",
     "version": "1.0",
     "depends": [
