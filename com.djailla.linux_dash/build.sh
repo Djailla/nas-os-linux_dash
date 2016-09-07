@@ -24,7 +24,7 @@ cd linux-dash
 npm install
 
 # Cleanup
-apt-get  -y -q autoremove curl git
-apt-get  -y -q clean
+apt-get -y -q autoremove curl git
+apt-get -y -q clean
 
 exit 0
