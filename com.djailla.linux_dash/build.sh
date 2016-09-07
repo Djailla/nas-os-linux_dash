@@ -9,7 +9,7 @@ apt-get update
 apt-get install -y -q curl git
 if [ $RAINBOW_ARCHITECTURE = "x86_64" ]
 then
-    curl -sL https://deb.nodesource.com/setup_5.x | bash -
+    curl -sL https://deb.nodesource.com/setup_6.x | bash -
     apt-get install -y -q nodejs npm
 else
     echo "ARM"
@@ -24,7 +24,7 @@ cd linux-dash
 npm install
 
 # Cleanup
-apt-get autoremove curl git
-apt-get clean
+apt-get  -y -q autoremove curl git
+apt-get  -y -q clean
 
 exit 0
