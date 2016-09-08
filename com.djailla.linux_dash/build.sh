@@ -10,7 +10,7 @@ apt-get install -y -q curl git
 if [ $RAINBOW_ARCHITECTURE = "x86_64" ]
 then
     curl -sL https://deb.nodesource.com/setup_6.x | bash -
-    apt-get install -y -q nodejs npm
+    apt-get install -y -q nodejs
 else
     echo "ARM"
 fi
