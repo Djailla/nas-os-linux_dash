@@ -17,7 +17,7 @@ fi
 
 # Checkout sources in /opt
 cd /opt/linux_dash/
-git clone https://github.com/afaqurk/linux-dash.git
+git clone --depth=1 https://github.com/afaqurk/linux-dash.git
 
 # Install the component
 cd linux-dash
