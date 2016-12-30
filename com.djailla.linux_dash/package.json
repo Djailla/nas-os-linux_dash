@@ -1,7 +1,7 @@
 {
     "type": "application",
     "id": "com.djailla.linux_dash",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "depends": [
         "org.debian.jessie-lamp-1.0"
     ],
