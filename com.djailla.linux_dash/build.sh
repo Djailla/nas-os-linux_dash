@@ -3,7 +3,7 @@
 mkdir -m 755 -p /opt/linux_dash/
 install -m 755 /home/source/rc.local /etc
 
-# Install nodejs components
+# Install build components
 apt-get update
 apt-get install -y -q git
 
